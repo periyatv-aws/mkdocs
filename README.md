@@ -1,0 +1,2 @@
+# mkdocs
+for deploying mkdocs
